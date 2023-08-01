@@ -1,0 +1,7 @@
+emoji==2.7.0
+plyer==2.1.0
+pypiwin32==223
+pytz==2023.3
+pywin32==303
+win10toast==0.9
+winotify==1.1.0
